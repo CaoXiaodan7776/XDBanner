@@ -1,0 +1,16 @@
+PODS:
+  - XDBanner (0.1.0)
+
+DEPENDENCIES:
+  - XDBanner (from `../`)
+
+EXTERNAL SOURCES:
+  XDBanner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XDBanner: 95c5d6861d16103f217005d19335ee0a7a28db9e
+
+PODFILE CHECKSUM: 83c84fb1ea04353c38b9b86ce5204cee64caac5b
+
+COCOAPODS: 1.6.1

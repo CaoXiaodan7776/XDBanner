@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XDBanner_Example' do
+  pod 'XDBanner', :path => '../'
+
+  target 'XDBanner_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

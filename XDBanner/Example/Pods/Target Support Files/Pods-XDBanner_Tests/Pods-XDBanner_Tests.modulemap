@@ -1,0 +1,6 @@
+framework module Pods_XDBanner_Tests {
+  umbrella header "Pods-XDBanner_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
